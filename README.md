@@ -1,10 +1,9 @@
 # Release Notes
 
-Welcome to the public release notes repository for all Camio products. Here, you can find information on the new features, improvements, and bug fixes included in each release, as well as any known issues and upgrade instructions (if applicable).
+Welcome to the public release notes for [Camio](https://camio.com). Here, you can find information on the new features, improvements, and bug fixes included in each release, as well as any known issues and upgrade instructions (if applicable).
 
-## Getting Started
+## Releases
 
-View release notes for a product by clicking on one of the links below:
+View release notes by clicking on the releases in this folder.
 
-* [Camio](camio)
-* [Camio Flex](camio-flex)
+* [releases](releases)
